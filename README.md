@@ -13,7 +13,7 @@
 ## 🏆 Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zono-zono&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=zono-zono&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
@@ -37,6 +37,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zono-zono&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zono-zono&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zono-zono&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zono-zono&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zono-zono&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zono-zono&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zono-zono&theme=tokyo-night&hide_border=true" />
 </p>
