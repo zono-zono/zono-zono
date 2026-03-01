@@ -10,6 +10,14 @@
 
 ---
 
+## 🏆 Trophy
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=zono-zono&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
