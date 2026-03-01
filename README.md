@@ -20,14 +20,6 @@
 
 ---
 
-## 🏆 Trophy
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=zono-zono&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**
@@ -71,4 +63,12 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zono-zono&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophy
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=zono-zono&theme=tokyonight&no-frame=true&row=1" />
 </p>
