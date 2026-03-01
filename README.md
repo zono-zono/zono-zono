@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://zono-zono.github.io/introduction/index.html">
-    <img src="https://img.shields.io/badge/About%20Me-Click%20Here-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=60&section=header&text=%F0%9F%91%A4%20View%20My%20Introduction&fontSize=24&fontColor=ffffff&animation=fadeIn" />
   </a>
 </p>
 
